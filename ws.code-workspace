@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../HuggingChat-chat-ui"
+		},
+		{
+			"path": "../hugging-chat-api"
+		}
+	],
+	"settings": {}
+}
